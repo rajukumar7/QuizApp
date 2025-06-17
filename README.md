@@ -9,6 +9,8 @@ This is a simple QuizApp Website that have various feature like
 7. Blog
 8. Contact
 
+Tech Stsck - HTML5, Tailwind CSS and JavaScript
+
 Note : This application uses local storage for store the User credentials and quizzes, when we cleared browser
 history then every thing is deleted. you have to follow the same procedure again to give quizzes.
 
